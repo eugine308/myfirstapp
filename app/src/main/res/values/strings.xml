@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">CPC3</string>
+    <string name="app_name">CPC5</string>
     <string name="top_row">Hello</string>
     <string name="button_row">BUTTON</string>
     <string name="bottom_row">Bye</string>
